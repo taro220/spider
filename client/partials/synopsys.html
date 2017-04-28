@@ -1,0 +1,22 @@
+<div ng-controller="synopsysController">
+  <div class="row">
+      <div class="row bg-faded" style="padding:5px;">
+        <table>
+          <thead>
+            <tr>
+            <th>Title</th>
+            <th>Location</th>
+            <th>Link</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr ng-repeat="job in jobs2 | orderBy: 'last_updated'">
+            <td>{{job.title}}</td>
+            <td>{{job.location}}</td>
+            <td><a href="{{job.url}}">Click here to see the posting</a></td>
+          </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+</div>

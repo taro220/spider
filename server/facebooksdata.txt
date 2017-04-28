@@ -1,0 +1,197 @@
+
+{ title: 'Partner Services - Entertainment, Media Partnerships',
+  link: 'http://www.facebook.jobs/los-angeles-ca/partner-services-entertainment-media-partnerships/2A03E51AE2814EF1A7C9AAE1E872DEE8/job/',
+  require: '' },
+
+{ title: 'Operations Process Manager',
+  link: 'http://www.facebook.jobs/menlo-park-ca/operations-process-manager/B8B9061E0240475F95119D15E13437BB/job/',
+  require: '' },
+
+
+{ title: 'Brand Programs Manager - Oculus',
+  link: 'http://www.facebook.jobs/menlo-park-ca/brand-programs-manager-oculus/17B57873AD874A62B8477D89C9837401/job/',
+  require: '' },
+
+
+{ title: 'Computer Vision Research Engineer (PhD University Grad)',
+  link: 'http://www.facebook.jobs/menlo-park-ca/computer-vision-research-engineer-phd-university-grad/F57A960B269B4226A7B68581D22FF2B7/job/',
+  require: '' },
+
+{ title: 'Product Marketing Manager, Monetization (Instagram)',
+  link: 'http://www.facebook.jobs/menlo-park-ca/product-marketing-manager-monetization-instagram/6529BB5C6C60470983E2CC7512FEA31D/job/',
+  require: '' },
+
+{ title: 'Security Engineer, Threat Detection',
+  link: 'http://www.facebook.jobs/menlo-park-ca/security-engineer-threat-detection/BF6F2353F5D54EABB511534FA2B38ACF/job/',
+  require: '' },
+
+{ title: 'Automation Engineering Manager',
+  link: 'http://www.facebook.jobs/menlo-park-ca/automation-engineering-manager/BD0259F9DDC64A409D2A489649B2CCFA/job/',
+  require: '' },
+
+{ title: 'Partner Engineer (WhatsApp)',
+  link: 'http://www.facebook.jobs/menlo-park-ca/partner-engineer-whatsapp/109AA8CA44C84A118DB5DACC567E2E8F/job/',
+  require: '' },
+
+{ title: 'Learning Content Strategist & Development Lead, Blueprint',
+  link: 'http://www.facebook.jobs/menlo-park-ca/learning-content-strategist-development-lead-blueprint/110CDE239A8D40CEA5F3104DC59AFB7A/job/',
+  require: '' },
+
+{ title: 'Consumer Marketing, Digital Media Manager',
+  link: 'http://www.facebook.jobs/menlo-park-ca/consumer-marketing-digital-media-manager/1EB4EF4D4E5541769D0E175F0F92725C/job/',
+  require: '' },
+
+{ title: 'Corporate Communications Manager (Oculus)',
+  link: 'http://www.facebook.jobs/menlo-park-ca/corporate-communications-manager-oculus/091D43ACFF24404580274CD45D06B998/job/',
+  require: '' },
+
+{ title: 'Technical Program Manager, Network Engineering, Backbone Networking',
+  link: 'http://www.facebook.jobs/menlo-park-ca/technical-program-manager-network-engineering-backbone-networking/921CC8270B9E4D7D8BD2623C4FB5D89C/job/',
+  require: '' },
+
+{ title: 'Systems Performance Lead, Building 8',
+  link: 'http://www.facebook.jobs/menlo-park-ca/systems-performance-lead-building-8/37A84DE5D7624689B797D09883658284/job/',
+  require: '' },
+
+{ title: 'Strategic Sourcing Manager, Technology',
+  link: 'http://www.facebook.jobs/menlo-park-ca/strategic-sourcing-manager-technology/9B40280105994CF1B1A6C6DF974FD9E5/job/',
+  require: '' },
+
+{ title: 'Systems Security Lead, Building 8',
+  link: 'http://www.facebook.jobs/menlo-park-ca/systems-security-lead-building-8/46216D1D557A4204993846DABBFF42C7/job/',
+  require: '' },
+
+{ title: 'Security Communications and Awareness Program Manager',
+  link: 'http://www.facebook.jobs/menlo-park-ca/security-communications-and-awareness-program-manager/FED4EBF5611B4A58AB8F7344D0D6214F/job/',
+  require: '' },
+
+{ title: 'Computer Vision Engineer, Eye (Oculus)',
+  link: 'http://www.facebook.jobs/menlo-park-ca/computer-vision-engineer-eye-oculus/D8AC2BB373BB4460A68D07D8676A5249/job/',
+  require: '' },
+
+///////////////////
+
+
+
+
+{ title: 'Market Specialist, Indonesia',
+  link: 'http://www.facebook.jobs/menlo-park-ca/market-specialist-indonesia/ABC7A4E72B5341FFAA9C9F117FEE252F/job/',
+  require: 'Bachelor\'s degree from the United States or equivalent university degree from another country.
+  1+ years of customer service experienceAbility to use and learn the iOS, Android, and Windows Phone operating systemsAbility to multitask and manage competing priorities.
+  Bilingual in English and Indonesian (read, write and speak)Demonstrated ability composing accurate and appropriate answers to help users.
+  Ability to balance independent tasks/goals while contributing to team goals and collaborating with other team members.
+  Must be eligible to work in the USNo international relocationKnowledge of Indonesia and its culture'
+},
+
+{ title: 'Ads Product Measurement',
+  link: 'http://www.facebook.jobs/menlo-park-ca/ads-product-measurement/CC56A2D9C4104A75A92BF23033F492E5/job/',
+  require: '3+ years in a quantitative field, such as consulting, market research, product development or user experience research.
+  BS/BA Degree in Economics, Statistics, Computer Science, Applied Mathematics, Operations Research, Engineering, or similar quantitative field.
+  Experience with applied statistics including sampling approaches, experiments, causal modeling, and data mining techniques.
+  Experience with relational databases and SQL-like query languagesExperience with an analysis tool such as R, Pandas, Matlab, SAS or Stata.
+  Experience with presenting and partnering with technical and non-technical teams'
+},
+
+{ title: 'Partner Engineer, Platforms',
+  link: 'http://www.facebook.jobs/menlo-park-ca/partner-engineer-platforms/6CCF45AE22214F0A98E947E9D9F846B3/job/',
+  require: '5+ years of previous experience as software engineer, technical consultant or partner/sales engineer.
+  Software development skills with experience building software developed in (at least one) Python, PHP, C/C++, Ruby, C# or Java.
+  Understanding of the Mobile (Android, iOS) and Web technology stack (HTTP, HTML, JavaScript, CSS, REST).
+  Communication skills including experience presenting to technical and business audiences.
+  BA/BS in Computer Science or equivalent degree/experience.'
+},
+
+{ title: 'Manager, Hardware Technical Program Management',
+  link: 'http://www.facebook.jobs/menlo-park-ca/manager-hardware-technical-program-management/296C19FF04F440D780653CEA55F71949/job/',
+  require: 'BS in Electrical Engineering, Computer Engineering, or Mechanical Engineering or equivalent experience.
+  At least 3 years experience as a program manager working across all of the following areas: electrical, mechanical and software for a consumer electronic device company.
+  At least 2 years of experience managing a team of program managers.
+  Experience manufacturing methods and processes.
+  Experience with project and issue tracking and version control software.
+  Experience operating autonomously across multiple teamsUp to 20% travel (10% international, 10% domestic).
+   },
+
+{ title: 'Partner Engineer, Media Products',
+  link: 'http://www.facebook.jobs/menlo-park-ca/partner-engineer-media-products/3864AD9CD92B476EA627C9C7602A7C14/job/',
+  require: 'Knowledge of JavaScript.Knowledge of web technologies (HTML/CSS).
+  Familiarity with one or more of the following: PHP, React.
+  Ability to write high-performance, reusable code for UI components.
+  Experience with performance debugging and benchmarking.
+  1+ years of experience building web applications.
+  BS or MS degree in Computer Science or a related technical field.
+  },
+
+{ title: 'Strategic Sourcing Manager, Global Marketing Solutions',
+  link: 'http://www.facebook.jobs/menlo-park-ca/strategic-sourcing-manager-global-marketing-solutions/5F2BA9307A56426C950CEE1F0902C95E/job/',
+  require: '8+ years of experience in procurement, sourcing or contracting.
+  Proven track record of implementing strategic sourcing and process improvement initiatives.
+  Proven track record in fact-based negotiations or equivalent contract analysis experience.
+  Experience in handling a variety of marketing related agreements specifically Market Research & Professional Services.
+  Ability to prioritize and manage high volume workload.
+  Knowledgeable in working with tools including Word, Excel, ERP systems, and contract management tools.
+  Ability to thrive in an environment of fast growth and ambiguity.'
+  },
+
+{ title: 'University Recruiting Specialist, Recruiting',
+  link: 'http://www.facebook.jobs/menlo-park-ca/university-recruiting-specialist-recruiting/970A8A123B38406FA7C1B186A7CC2BD7/job/',
+  require: '2+ years’ experience in recruitment operations, business intelligence, and/or project management.
+  1+ years reporting and analytics experience'
+   },
+
+{ title: 'Product Marketing Manager, News Feed',
+  link: 'http://www.facebook.jobs/menlo-park-ca/product-marketing-manager-news-feed/23F5A3EC1159430199201B99CD380EA4/job/',
+  require: '8+ years of experience in Product or Brand Marketing, Public Affairs or Public Policy, or Policy or Crisis Communications.
+  Marketing experience working across privacy sensitive/trust issues and products and/or experience working on security and safety.
+  Consumer product marketing experience.
+  Experience in the Internet and/or technology industry.
+  Copywriting skills.
+  Experience communicating to internal and external audiences.
+  Analytical and problem-solving skills.Experience working with cross-functional teams.
+  Project Management skills.'
+  },
+
+{ title: 'Director of Software Engineering, Commercial Messaging(WhatsApp)',
+  link: 'http://www.facebook.jobs/menlo-park-ca/director-of-software-engineering-commercial-messagingwhatsapp/BEBB0799D2EB409BAA0A22C606656354/job/',
+  require: 'Ability to be highly technical, hands-on and an effective people manager for technical teams
+  Experience leading, technically-challenging, cross-functional infrastructure projects from conception to end
+  Familiarity with Unix internals (especially FreeBSD and Linux)
+  Familiarity with multi-node cluster handling live traffic
+  Knowledge of TCP/IP, experience with network programmingExperience building and scaling distributed, highly available systems
+  10+ years of relevant work experience in software engineering, including 5+ years of proven hands-on technical management experience of software engineers
+  BS / MS in Computer Science (In lieu of degree, relevant work experience)'
+  },
+
+{ title: 'Edge Network Data Analyst',
+  link: 'http://www.facebook.jobs/menlo-park-ca/edge-network-data-analyst/D8E423DFEE3F405F8A4F580939D30FCB/job/',
+  require: 'Knowledge of network infrastructure and web technologies.
+  Demonstrated problem solving ability with experience providing practical business insights from  data sets.
+  Able to communicate with multiple internal customers to collect relevant data and produce comprehensive analyses
+  2+ years of SQL experience.1+ years of coding such as PHP, C, R, Python, etc.Degree in an analytical field (e.g. Computer Science, Engineering, Mathematics, Statistics, Operations Research, Management Science)
+  2 plus years of industry or graduate work experience'
+  },
+
+{ title: 'Business Operations Associate, Games',
+  link: 'http://www.facebook.jobs/menlo-park-ca/business-operations-associate-games/6F388EE9DA59423D9F571B853C52DF45/job/',
+  require: 'BS or MS in business-related or quantitative field (Economics, Math, Statistics, Engineering, or similar discipline)
+  3+ years of experience in business strategy, finance, analytics, or planning
+  SQL skills
+  Ability to problem-solve individually or in a group setting
+  Microsoft Excel and PowerPoint experience
+  Analytical skills'
+},
+
+{ title: 'Commercial Sourcing Manager, DRAM',
+  link: 'http://www.facebook.jobs/menlo-park-ca/commercial-sourcing-manager-dram/8B2E832D568144E8B9CA5B32CB57D97C/job/',
+  require: 'BA/BS or equivalent in technical or business related field
+  10+ years’ experience Sourcing Management or Supply Chain Management experience in commercial sourcing in silicon and market-based commodity products
+  Analytical skills and the demonstrated ability to influence and guide teams to deliver results.
+  Demonstrated results of improving supply chain and supplier performance, including the use of cost models and objective based performance measures in the semiconductor/memory commodity.
+  Demonstrated success in contracts and contract negotiations, and contract strategy development and execution, within the memory commodity space.'
+},
+
+{ title: 'Commercial Spam Specialist, Community Operations',
+  link: 'http://www.facebook.jobs/menlo-park-ca/commercial-spam-specialist-community-operations/0502C91F803849429B6CE5F03D7D1894/job/',
+  require: 'BA/BS degree1+ year(s) of work experience in role involving strategic/analytical initiatives (operations, project management, consulting experience, data analysis or technical systems)
+  Ability to communicate with a variety of audiences'
+
+  }

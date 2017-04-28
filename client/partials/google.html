@@ -1,0 +1,22 @@
+<div ng-controller="googleController">
+  <div class="row">
+      <div class="row bg-faded" style="padding:5px;">
+        <table>
+          <thead>
+            <tr>
+            <th>Title</th>
+            <th>Date</th>
+            <th>Link</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr ng-repeat="n in news | orderBy: '-date'">
+            <td>{{n.title}}</td>
+            <td>{{n.date | date: yyyy-MM-dd}}</td>
+            <td><a href="{{n.url}}">Click here to see the story</a></td>
+          </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+</div>

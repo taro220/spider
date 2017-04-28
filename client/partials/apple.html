@@ -1,0 +1,22 @@
+<div ng-controller="appleController">
+  <div class="row">
+      <div class="row bg-faded" style="padding:5px;">
+        <table>
+          <thead>
+            <tr>
+            <th>Title</th>
+            <th>Date</th>
+            <th>Link</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr ng-repeat="n in news | orderBy: 'createdAt'| limitTo: 10">
+            <td>{{n.title}}</td>
+            <td>{{n.date}}</td>
+            <td><a href="{{n.url}}">Click here to see the story</a></td>
+          </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+</div>

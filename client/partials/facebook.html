@@ -1,0 +1,24 @@
+<div ng-controller="facebookController">
+  <div class="row">
+      <div class="row bg-faded" style="padding:5px;">
+        <table>
+          <thead>
+            <tr>
+            <th>Title</th>
+            <th>Location</th>
+            <th>Requirements</th>
+            <th>Job Posting</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr ng-repeat="job in jobs ">
+            <td>{{job.title}}</td>
+            <td>{{job.location}}</td>
+            <td><a href="#!/jobs/facebook/{{job._id}}">Requirments</a></td>
+            <td><a href="{{job.url}}">Click here to see the posting</a></td>
+          </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+</div>

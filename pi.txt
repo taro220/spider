@@ -1,0 +1,6 @@
+Security Profile ID
+This ID will identify your security profile in Amazon services.	amzn1.application.1363356ccfbb4d3c98b076a8a61f6d33
+Client ID
+This is a value specific to you that is assigned to you when you register with Login with Amazon.	amzn1.application-oa2-client.11feeb564bc14db190954c9287e37cba
+Client Secret
+This is a secret specific to you that is assigned to you when you register with Login with Amazon. Confidential.	eaf75746989fac706ba5e77fada4a74a1eef21f3ff88f32c8b7cc1c340fee3ac
